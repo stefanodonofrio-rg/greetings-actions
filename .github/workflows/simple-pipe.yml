@@ -60,7 +60,7 @@ jobs:
     runs-on: ubuntu-latest
     steps:
     - id: report-count
-      uses: test/arg-count-action@main
+      uses: stefanodonofrio-rg/arg-count-action@main
       with:
         arguments-to-count: ${{ github.event.inputs.myValues }}
     - run: echo
