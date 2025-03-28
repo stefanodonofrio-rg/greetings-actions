@@ -1,0 +1,1 @@
+[![Simple Pipe](https://github.com/stefanodonofrio-rg/greetings-actions/actions/workflows/simple-pipe.yml/badge.svg)](https://github.com/stefanodonofrio-rg/greetings-actions/actions/workflows/simple-pipe.yml)
